@@ -1,6 +1,9 @@
 .navbar {
-    background: slategray !important;
+    background: #6600ff !important;
 }
 header .btn-primary {
-    background-color: goldenrod !important;
+    background-color: #993366 !important;
+}
+.bg-dark {
+    background: #993366 !important;
 }
